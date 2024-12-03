@@ -1,0 +1,12 @@
+
+
+
+  .infoBox {
+      text-align: center;
+      align-items: center;
+  }
+
+  .cardContainer {
+    display: flex;
+    justify-content: center;
+  }
